@@ -6,7 +6,7 @@
 - The Hub that controls the automations is the Samsung Smartthings Hub which is combined with Google Assistant, Amazon alexa, Apple home kit, amoung other API's
 
 ## What was learned
-- Learned more about how simple inbedded devices communicate with each other
+- Learned more about how simple embedded devices communicate with each other
 - Learned more about gathering and responding to signals from an interconnected range of devices
 - Gathered expanded knowledge of how IOT (internet of things) devices operate
 - Had to use critical thinking to solve issues and engineer solutions
