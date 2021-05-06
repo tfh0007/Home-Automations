@@ -1,7 +1,7 @@
 # About This Project
 - A collection of scripts that control logic and allow for custom automations in a home environment
 - Was originally designed as a way of assisting my Grandmother to have easier control over her house in addition to having added security with alerts and warnings in the event of trouble
-- The project was later expanded with a seprate Hub to control an apartment as well
+- The project was later expanded with a seprate Hub to control an apartment
 - The logic was written using webCoRE
 - The Hubs that control the automations are the Samsung Smartthings Hubs which are combined with Google Assistant, Amazon alexa, Apple home kit, amoung other API's
 
