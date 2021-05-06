@@ -8,7 +8,7 @@
 ## What was learned
 - Learned more about how simple embedded devices communicate with each other
 - Learned more about gathering and responding to signals from an interconnected range of devices
-- Gathered expanded knowledge of how IOT (internet of things) devices operate
+- Gathered expanded knowledge of how IoT (internet of things) devices operate
 - Had to use critical thinking to solve issues and engineer solutions
 - Used extensive debugging to find and correct mistakes while many different signals were competing for the same resources
 - Implemented virtual switches and custom device handlers for advanced automations
